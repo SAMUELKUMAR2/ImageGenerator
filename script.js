@@ -5,7 +5,7 @@ const downloadImgBtn = document.querySelector(".uil-import");
 const closeBtn = document.querySelector(".uil-times");
 const searchInput = document.querySelector(".search-box input");
 
-const ApiKey = "DNrMJbVwOhEhJR3INZM5ivkqIRI9j3vDoYeqHtnPkF9F2fl5SLBJeHbp";
+const ApiKey = "";
 const perPage = 10;
 let currentPage = 1;
 let searchTerm = null;
